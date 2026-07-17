@@ -1,0 +1,15 @@
+# Build output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+
+# Runtime data (акаунти/пруфи/аватари створюються локально)
+**/data/
+appsettings.json
+
+# IDE
+.vs/
+.idea/
+*.suo
